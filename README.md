@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Badhe  
 - 👀 I’m interested in coding, exploring new technologies, and creating impactful projects.  
-- 🌱 I’m currently learning advanced Java (including JDBC) and backend development.  
+- 🌱 I’m currently learning frameworks of Js and backend development.  
 - 💞️ I’m looking to collaborate on open-source projects and innovative web or mobile applications.  
 - 📫 How to reach me:  
   - Email: rohanbadhe97@gmail.com  
