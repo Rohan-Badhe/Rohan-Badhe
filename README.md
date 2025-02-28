@@ -11,4 +11,6 @@
  **Languages:** Java, Python, JavaScript,php  
 - **Frameworks:** Spring, Hibernate, React  
 - **Databases:** MySQL 
-- **Tools:** Git, VS Code 
+- **Tools:** Git, VS Code
+- Projects:IQ Test ( https://iq-test-online-mini-project-jmxb.vercel.app/ )
+
