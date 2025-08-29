@@ -23,7 +23,7 @@ I'm always up for learning something new—except for solving **Rubik’s cubes*
 
 ## 🛠 Tech Stack  
 - **Languages:** Java, Python, JavaScript, PHP  
-- **Frameworks & Libraries:** React, Spring Boot, Hibernate  
+- **Frameworks & Libraries:** numpy , pandas , sci-py , matplotlib 
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git, VS Code  
 
