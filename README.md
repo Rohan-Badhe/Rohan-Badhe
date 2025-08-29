@@ -4,7 +4,7 @@
 I'm a passionate **full-stack developer** who loves coding, exploring new technologies, and building impactful projects. I thrive on solving challenges and continuously learning new things.  
 
 ## 🌱 Currently Learning  
-- **JavaScript** and full-stack **web development**   
+- **JavaScript** **React js** and **web development**   
 - Exploring **open-source contributions** and innovative **web & mobile applications**  
 
 ## 💡 Looking to Collaborate On  
