@@ -9,7 +9,7 @@
 ## 💼 Current Position
 
 **Graduate Trainee | Frontend Developer (React)**  
-🏢 [Leap and Scale Private Limited, Aundh, Pune](https://www.leapandscale.com/](https://www.leapscale.com/))
+🏢 [Leap and Scale Private Limited, Aundh, Pune](https://www.leapscale.com/)
 
 ---
 
