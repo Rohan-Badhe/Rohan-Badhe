@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rohan Badhe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=440&lines=Graduate-Trainee;At Leap And Scale;lFrontend+React+Enthusiast;Passionate+about+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=440&lines=Graduate-Trainee;At;Leap-And-Scale;lFrontend+React+Enthusiast;Passionate+about+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
