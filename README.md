@@ -73,17 +73,6 @@
 
 I'm always up for learning something new—except for solving Rubik’s cubes! 😆
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Badhe&show_icons=true&theme=tokyonight" alt="Rohan Badhe's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Badhe&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 <!--
 Let's connect and create something amazing together! 🚀✨
